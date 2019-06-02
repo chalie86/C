@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558176561 source:c:\cproject\functtst\main.c
+	<stdio.h>
+	<stdlib.h>
+
