@@ -8,7 +8,7 @@ bool equalStrings(const char s1[], const char s2[]);
 
 int main()
 {
-    const char word1[] = "jason";
+    const char word1[] = "Tshifhiwa";
     const char word2[] = "ok";
     const char word3[] = "whatever";
     char result[50];
@@ -19,8 +19,8 @@ int main()
 
     printf("\n%s", result);
 
-    printf("\n%d\n", equalStrings("Jason", "Jason"));
-    printf("%d\n", equalStrings("Jasons", "Jason"));
+    printf("\n%d\n", equalStrings("Tshifhiwa", "Tshifhiwa"));
+    printf("%d\n", equalStrings("Tshifhiwa", "Tshifhiwa"));
 
     return 0;
 }
